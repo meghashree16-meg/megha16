@@ -89,5 +89,6 @@ AWS recommends you review the security best practices recommended by the framewo
 author of your selected sample application before running it in production. You
 should also regularly review and apply any available patches or associated security
 advisories for dependencies used within your application.
+welcome to code star
 
 Best Practices: https://docs.aws.amazon.com/codestar/latest/userguide/best-practices.html?icmpid=docs_acs_rm_sec
